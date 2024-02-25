@@ -50,6 +50,7 @@ export async function deleteContact(id) {
   return false;
 }
 
+// const contacts = useLoaderData() 를 통해 불러올수 있음
 function set(contacts) {
   return localforage.setItem("contacts", contacts);
 }
