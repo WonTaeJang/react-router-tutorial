@@ -1,2 +1,2 @@
 # react-router-tutorial
-리액트 라우터 튜토리얼 TEST
+리액트 라우터 튜토리얼 기록용
